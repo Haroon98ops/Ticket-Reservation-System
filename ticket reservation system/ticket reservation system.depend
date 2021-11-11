@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571009432 source:c:\users\uaqx\desktop\new folder (2)\ticket reservation system\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
